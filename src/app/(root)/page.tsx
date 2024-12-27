@@ -1,8 +1,6 @@
 import EditorPanel from "./_components/EditorPanel";
 import Header from "./_components/Header";
 import OutputPanel from "./_components/OutputPanel";
-import { CustomCursor } from "@/components/CustomCursor";
-import { useEffect } from "react";
 
 export default function Home() {
   return (
